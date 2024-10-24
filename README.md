@@ -6,6 +6,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDominikPinsel%2FSSI-agent-lib.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDominikPinsel%2FSSI-agent-lib?ref=badge_shield)
 
 
 
@@ -54,6 +55,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDominikPinsel%2FSSI-agent-lib.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDominikPinsel%2FSSI-agent-lib?ref=badge_large)
 
 ## About The Project
 
